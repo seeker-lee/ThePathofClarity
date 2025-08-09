@@ -1,12 +1,3 @@
-# Seeker(李标明) (@clibm079)
-
-![Profile Photo](https://github.com/seeker-lee/ThePathofClarity/blob/main/me.jpg)
-
-I’m Seeker(李标明), Independent Malware Analyst & Researcher | Author of The Path of Clarity (ebook).
-
-- Blog: https://malwareanalysisspace.blogspot.com/?m=1
-- Twitter/X: https://x.com/clibm079
-
 
 Copyright Notice / 版权声明  
 © Seeker (李标明), 2025. All rights reserved.  
