@@ -2,7 +2,7 @@
 [GitHub Link](https://github.com/clibm079/ThePathofClarity)  
 Notes from a stage of quiet exploration — not a guide, but a trace of thought in research.
 
-______________________________________________________________
+---
 
 Version History
 
