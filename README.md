@@ -21,7 +21,7 @@ The_Path_of_Clarity_Seeker_2025 v1.1.0 (2025-08-27)
 
 
 ______________________________________________________________
-Copyright Notice / 版权声明  
-© Seeker(李标明)·@clibm079, 2025. All rights reserved.  
-This document may be freely shared for non-commercial purposes, provided  
-that it remains unmodified and proper attribution is given to the author. 
+Seeker(李标明)·@clibm079  
+Independent Malware Analyst & Researcher    
+China
+
