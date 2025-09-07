@@ -21,7 +21,6 @@ The_Path_of_Clarity_Seeker_2025 v1.1.0 (2025-08-27)
 
 
 ______________________________________________________________
-Seeker(李标明)·@clibm079  
-Independent Malware Analyst & Researcher    
-China
+Seeker(李标明) · @clibm079    
+China · Independent Malware Analyst & Researcher 
 
