@@ -9,7 +9,8 @@ It's a great honor to share my research and feelings.
 I would like to share a real, meaningful thing.    
 Again, I don't teach anybody;    
 in fact, from the process, I did research,   
-I really strongly, and I just know very little; the unknown is vast to me.
+I really strongly, and I just know very little;  
+the unknown is vast to me.
 ---
 
 Version History
