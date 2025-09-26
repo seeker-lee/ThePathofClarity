@@ -22,11 +22,17 @@ Version History
 
 ## v1.1.0 (2025-08-27)
 The_Path_of_Clarity_Seeker_2025 v1.1.0 (2025-08-27)
-1.  modified date From 2025.4 to 2025.8
-2.  remove the word "ebook" and Just to clarify: "The Path of Clarity" is a PDF document, not an ebook. ON X platform （Aug 25）
-3.  about me adding: https://clibm079.github.io/
-4.  Moments of Insight: adding 102-109
+-  modified date From 2025.4 to 2025.8
+- remove the word "ebook" and Just to clarify: "The Path of Clarity" is a PDF document, not an ebook. ON X platform （Aug 25）
+- about me adding: https://clibm079.github.io/
+- Moments of Insight: adding 102-109
 
+## v1.2.0 (2025-09-26)
+The_Path_of_Clarity_clibm079_2025 v1.2.0 (2025-09-26)
+-  modified date From 2025.4 to 2025.9
+-  changed the filename
+-  Moments of Insights & Research: adding 110-114
+-  adding the report: Design Intent Exposed: Path Deception in nls_933w.dll
 
 ______________________________________________________________
 Seeker(李标明) · @clibm079    
