@@ -11,8 +11,8 @@ Again, I don't teach anybody;
 in fact, from the process, I did research,   
 I really strongly, and I just know very little;  
 the unknown is vast to me.
----
 
+---
 Version History
 
 ## v1.0.0 (2025-06-9)
