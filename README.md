@@ -4,7 +4,7 @@ Notes from a stage of quiet exploration — not a guide, but a trace of thought 
 
 ---
 ## Prologue: I just do what I can do
-______________________________________________________________
+
 It's a great honor to share my research and feelings.   
 I would like to share a real, meaningful thing.    
 Again, I don't teach anybody;    
