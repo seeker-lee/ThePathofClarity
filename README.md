@@ -35,7 +35,8 @@ The_Path_of_Clarity_clibm079_2025 v1.2.0 (2025-09-26)
 -  adding the report: Design Intent Exposed: Path Deception in nls_933w.dll
 
 ⚠️ Notice: Repository Moved
-This project has moved to a new location and is no longer maintained here.
+This project has moved to a new location and is no longer maintained here. 
+
 👉 New Repository: [https://github.com/clibm079/ThePathofClarity]
 ______________________________________________________________
 Seeker(李标明) · @clibm079    
